@@ -1,0 +1,13 @@
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.csproj.AssemblyReference.cache
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.Form1.resources
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.Properties.Resources.resources
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.ResetPassword.resources
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.sendCode.resources
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.csproj.GenerateResource.cache
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.csproj.CoreCompileInputs.cache
+C:\Users\Haıer\source\repos\şifre\şifre\bin\Debug\şifre.exe.config
+C:\Users\Haıer\source\repos\şifre\şifre\bin\Debug\şifre.exe
+C:\Users\Haıer\source\repos\şifre\şifre\bin\Debug\şifre.pdb
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.exe
+C:\Users\Haıer\source\repos\şifre\şifre\obj\Debug\şifre.pdb
